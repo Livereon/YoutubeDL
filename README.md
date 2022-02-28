@@ -1,2 +1,2 @@
 # YoutubeDL
-A bare Bones Youtube Downloader using Pytube. Originally created as a test.
+A bare bones Youtube Downloader using Pytube. Originally created as a test. Now Unsupported (Check my YTDL+)
